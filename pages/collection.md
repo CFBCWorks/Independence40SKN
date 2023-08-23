@@ -1,6 +1,6 @@
 ---
 title: Books
-layout: collection
+layout: stories
 permalink: /collection
 ---
 
