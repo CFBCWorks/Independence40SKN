@@ -42,30 +42,30 @@ repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "IDAH@IU"
+title: "CELEBRATING 40 YEARS OF AUTHORS"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An Archive of Our Community's Heirlooms"
+subtitle: "Independence 40 Authors Exhibit"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Community Archiving Site"
+description: "Digital Exhibit"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "IDAH@IU"
-authorname : "Institute for Digital Arts and Humanities"
+author: "CFBC Library"
+authorname : "Clarence Fitzroy Bryant College Library Services"
 sitelogo: "site_logo.jpg"
 
 # What year did you start up this community project?
-sitedate : 2022
+sitedate : 2023
 
 # Other community social media. Leave blank if you don't have these.
-email : "idah [at] iu.edu"
-website : "https://idah.indiana.edu/"
-twitter : "IDAH_IU"
-github : "idahatiu"
-facebook : "idahatiu"
-instagram : 
+email : "sonita.daniel [at] cfbc.edu.kn"
+website : "https://cfbc.edu.kn/library-services/"
+twitter : ""
+github : "CFBC-Library"
+facebook : "https://www.facebook.com/CFBCSKN/"
+instagram : "https://instagram.com/cfbcskb"
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
