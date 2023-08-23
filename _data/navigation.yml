@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: Our Community
+- title: About this Exhibit
   url: /
   excerpt:
   image:
 
-- title: Our Collection
+- title: Books
   url: /collection
   excerpt:
   image:
 
-- title: Our Stories
-  url: /stories
+- title: Authors
+  url: /authors
   excerpt:
   image:
