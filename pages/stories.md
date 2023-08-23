@@ -1,5 +1,5 @@
 ---
-title: Our Stories
+title: Authors
 layout: stories
-permalink: /stories
+permalink: /authors
 ---
