@@ -88,9 +88,9 @@ blankgroup: "Miscellaneous Items"
 #fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
 #fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
-#fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
+fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
 #fontchoice: roboto # A clean sans-serif font with simple serif accents
-fontchoice: slab # A funky slab font with clean sans-serif accents
+#fontchoice: slab # A funky slab font with clean sans-serif accents
 #fontchoice: source # A modern serif font with clean sans-serif accents
 
 # Choose the COLORS you'd like to use.
@@ -101,8 +101,8 @@ fontchoice: slab # A funky slab font with clean sans-serif accents
 #colorchoice: leafgreen # Leafy green and medium brown
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
-colorchoice: marigold # Near-black with marigold yellow
-#colorchoice: red # Black, crimson and grey
+#colorchoice: marigold # Near-black with marigold yellow
+colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: dusk # Dusky purple and olive green
 
