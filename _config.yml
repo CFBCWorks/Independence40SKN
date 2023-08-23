@@ -62,7 +62,7 @@ sitedate : 2023
 # Other community social media. Leave blank if you don't have these.
 email : "sonita.daniel [at] cfbc.edu.kn"
 website : "https://cfbc.edu.kn/library-services/"
-twitter : ""
+#twitter : ""
 github : "CFBC-Library"
 facebook : "https://www.facebook.com/CFBCSKN/"
 instagram : "https://instagram.com/cfbcskb"
