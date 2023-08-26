@@ -1,5 +1,5 @@
 ---
 title: Authors
-layout: stories
+layout: group
 permalink: /authors
 ---
