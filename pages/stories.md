@@ -1,5 +1,5 @@
 ---
 title: Authors
-layout: collections
+layout: collection
 permalink: /authors
 ---
