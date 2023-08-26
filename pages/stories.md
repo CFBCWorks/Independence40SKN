@@ -1,5 +1,5 @@
 ---
 title: Authors
-layout: group
+layout: peoplecollection
 permalink: /authors
 ---
