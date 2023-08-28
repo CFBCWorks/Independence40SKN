@@ -112,6 +112,12 @@ colorchoice: red # Black, crimson and grey
 # These collections take the basic files you put together for each item in your collection and auto-group and display them.
 # This takes each item in your archive collection and displays it
 collections:
+  people:
+    output: true
+    permalink: /:collection/:path:output_ext
+    contributor: true
+    creator: true
+    group: true
   items:
     output: true
     permalink: /:collection/:path:output_ext
