@@ -51,10 +51,11 @@ Chance which property is accessed & used in the filters in lines 13-18 & 20-25. 
 
 </div>
 
+<div id="item-container">
     {% for item in site.items %}
     {% include _itembox.html %}
     {% endfor %}
-
+</div>
 
 <script>
     // JavaScript to handle filtering
@@ -118,8 +119,7 @@ Chance which property is accessed & used in the filters in lines 13-18 & 20-25. 
     /* Style the tiles */
     #item-container {
         display: grid;
-        grid-template-columns: repeat(autofit, minmax(300px, 1fr)); /* autofit */
-        grid-template-rows: repeat(4, 300px)
+        grid-template-columns: repeat(3, minmax(300px, 1fr)); /* Set three equal-width columns */
         gap: 20px;
         justify-items: center;
     }
