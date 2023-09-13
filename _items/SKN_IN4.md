@@ -4,9 +4,9 @@ layout: item
 
 format: photo 
 
-title: The Politics of St. Kitts and Nevis: The Road to Independence 1930-1980
+title: A history of Social Security in St. Kitts and Nevis: yesterday, today, tomorrow
 
-shortdesc: “A full and proper account of the historical sequences which led to the formal attainment of independence by the islands of St. Kitts and Nevis.”
+shortdesc: ““This paper was intended to be a relatively short overview of the social security landscape over the past fifty years.”
  
 categories: [ History ]
 
@@ -18,5 +18,4 @@ alt-text:
 
 ## About this Item 
 
-The Politics of St. Kitts and Nevis: The Road to Independence 1930-1980 A full and proper account of the historical sequences which led to the formal attainment of independence by the islands of St. Kitts and Nevis.
-This would require millions of words and would fill several volumes. Such an account will at some time be provided by professional historians in not-too-distant future.
+This paper was intended to be a relatively short overview of the social security landscape over the past fifty years. It has turned out to be much longer than I had initially intended. Nevertheless, I hope that most of you will find some food for thought in the discourse above and most importantly, I hope and pray that some of what I have said will lead to the initiation of a debate on the role of what the social security safety net today, tomorrow and the day after.
