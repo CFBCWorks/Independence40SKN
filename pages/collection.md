@@ -2,6 +2,7 @@
 title: Timeline
 layout: page
 permalink: /timeline
+---
 
 {{site.description}}
 
