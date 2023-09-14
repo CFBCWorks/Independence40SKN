@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Timeline
 layout: page
 permalink: /collection
 ---
