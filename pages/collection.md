@@ -1,8 +1,7 @@
 ---
 title: Timeline
 layout: page
-permalink: /collection
----
+permalink: /timeline
 
 {{site.description}}
 
