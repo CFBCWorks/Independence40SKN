@@ -4,7 +4,7 @@ layout: item
 
 format: photo 
 
-title: A History of Social Security in St.kitts & Nevis yersterday, today, tomorrow
+title: A History of Social Security in St.kitts & Nevis yesterday, today, tomorrow
 
 shortdesc: “This paper was intended to be a relatively short overview of the social security landscape over the past fifty years.”
  
