@@ -8,7 +8,7 @@ title: Early Morning Thoughts.
 
 shortdesc: “This book of poems reflects what goes through my mind when I go out to work very early in the morning driving a garbage collection truck.” 
 
-categories: [ Political Non-Fiction ] 
+categories: [ Poetry ] 
 
 alt-text:  
 
