@@ -4,7 +4,7 @@ layout: item
 
 format: photo 
 
-title: Fire and Brimstone: The History of St. Kitts, West Indies 1690-1853.
+title: Fire and Brimstone  the story of the Brimston Hill Fortress, St.kitts, West Indies
 
 shortdesc: “The brimstone hill Fortress is one of the most magnificent in the west Indies and this goes into details about that.” 
 
