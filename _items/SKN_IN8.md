@@ -1,21 +1,21 @@
 --- 
 
-layout: item
+layout: item 
 
 format: photo 
 
-title: Fire and Brimstone: The History of St. Kitts’ Brimstone Hill Fortress
+title: Early Morning Thoughts.
 
-shortdesc: “The btimston hill Fortress is one of the most magnificent in the west Indies and this goes into details about that.” 
+shortdesc: “The brimstone hill Fortress is one of the most magnificent in the west Indies and this goes into details about that.” 
 
-categories: [ Histroy ] 
+categories: [ History ] 
 
 alt-text:  
 
+ 
 
-
----
+--- 
 
 ## About this Item 
 
-The btimston hill Fortress is one of the most magnificent in the west Indies and this goes into details about that. It is also a reminder in stone and mortar of the often vioiolent competition between England and France in Historical times for control of econmic Resources of the Easter Caribbean.
+The brimstone hill Fortress is one of the most magnificent in the west Indies and this goes into detail about that. It is also a reminder in stone and mortar of the often-violent competition between England and France in Historical times for control of economic Resources of the Easter Caribbean.
