@@ -5,7 +5,7 @@ layout: item
 format: photo 
 
 title: Mr. Loughlin Tatem 
-shortdesc: "Mr. Loughlin Tatem."
+shortdesc: "Mr. Loughlin Tatem, a Kittitian author."
 
 categories: [ Kittitian ] 
 
