@@ -7,7 +7,7 @@ format: photo
 title: Carol Mitchell
 shortdesc: "Carol Mitchell, a Nevisian author."
 
-categories: [ Kittitian ] 
+categories: [ Nevisian ] 
 
 alt-text: " "
 
