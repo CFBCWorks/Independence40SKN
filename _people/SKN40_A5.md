@@ -16,6 +16,7 @@ alt-text: " "
 ## About This Item 
 
 Whitman Browne  Biography
+
 Whitman Browne was born, and grew up in Butlers Village, Nevis.  He became a Pupil Teacher at White Hall School, at the age of 14.  After attending teachers’ college in Antigua, 1966 - 1968, he was assigned to the Combermere School.  It was while teaching at Combermere School in 1970, that the ferry Christena sank, killing almost 250 people aboard.  He lost students, family, and friends in that tragedy.
 
 During 1971, Browne was offered a scholarship to study for a Bachelor’s Degree at Ursinus College in Pennsylvania.  He was awarded credit for his work at the teachers’ college, and received a BA degree in history in 1973.  After Ursinus College, Browne studied at Lehigh University, in Bethlehem, PA. and taught at Dieruff High School, in Allentown, PA.  He was awarded an MA degree in education in 1975.  Then, Browne retuned to St. Kitts-Nevis, during 1976, and worked at the Teachers’ College on St. Kitts, for one year.  In 1977, he received a scholarship to Temple University, and returned to Pennsylvania.
