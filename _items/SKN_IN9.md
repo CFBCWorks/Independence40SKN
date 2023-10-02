@@ -13,7 +13,6 @@ categories: [ Inspirational ]
 alt-text:  
 
  
-
 --- 
 
 ## About this Item 
