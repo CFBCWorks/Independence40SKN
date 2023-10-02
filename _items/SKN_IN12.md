@@ -18,4 +18,4 @@ alt-text:
 
 ## About this Item 
 
-A historically themed alphabet book about the Federation of St. Kitts and Nevis.
+A historically-themed alphabet book about the Federation of St. Kitts and Nevis.
