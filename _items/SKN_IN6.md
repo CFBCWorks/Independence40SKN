@@ -6,7 +6,7 @@ format: photo
 
 title: Walk Through My Mind.
 
-shortdesc: “The poems written in a “Walk Through My Mind” reflect Kittitian culture, a positive outlook and celebration of life.” 
+shortdesc: “The poems written in “Walk Through My Mind” reflect Kittitian culture, a positive outlook and a celebration of life.” 
 
 categories: [ Poetry ] 
 
