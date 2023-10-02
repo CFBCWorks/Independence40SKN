@@ -6,7 +6,7 @@ format: photo
 
 title: God's Signet:Standing in Authority
 
-shortdesc: “God’s Signet: Standing in Authority, is a book about self-discovery that serves as a means for the current generation to encounter and embrace their full potential.” 
+shortdesc: “ God’s Signet: Standing in Authority, is a book about self-discovery that serves as a means for the current generation to encounter and embrace their full potential.” 
 
 categories: [ Inspirational ] 
 
