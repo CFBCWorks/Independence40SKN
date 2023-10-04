@@ -8,7 +8,7 @@ title: The Christena Disaster in Retrospect.
 
 shortdesc: “This book was published in 1985.” 
 
-categories: [ Memoir ] 
+categories: [ Memoir, History ] 
 
 alt-text:  
 
