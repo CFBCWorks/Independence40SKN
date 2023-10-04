@@ -8,7 +8,7 @@ title: The Christena Disaster Forty-Two Years Later.
 
 shortdesc: “By 2013, the memory of the Christena tragedy was still a painful experience.” 
 
-categories: [ Memoir ] 
+categories: [ Memoir, History ] 
 
 alt-text:  
 
