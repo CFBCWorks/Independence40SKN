@@ -8,7 +8,7 @@ title: The Christena:A Story of Tragedy and Survival
 
 shortdesc: “This is the fourth and last book in my Christena series.”
  
-categories: [ Memoir ]
+categories: [ Memoir, History ]
 
 alt-text:  
 
