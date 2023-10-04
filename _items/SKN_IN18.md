@@ -8,7 +8,7 @@ title: The Christena Disaster Revisited
 
 shortdesc: “This book recounts and updates the information in the first book, “The Christena Disaster in Retrospect.”
  
-categories: [ Memoir ]
+categories: [ Memoir, History ]
 
 alt-text:  
 
