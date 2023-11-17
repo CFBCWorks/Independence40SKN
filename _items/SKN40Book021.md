@@ -9,7 +9,7 @@ shortdesc: "A book about Violence Prevention Strategies"
 
 categories: [ Memoir ] 
 
-alt-text:Book cover features word cloud on blackboard
+alt-text: Book cover features word cloud on blackboard
 
  
 
