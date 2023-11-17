@@ -14,7 +14,7 @@ alt-text:
 
 --- 
 
-## About this Item 
+
 
 ### About the Book
 
