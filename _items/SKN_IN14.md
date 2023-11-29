@@ -8,7 +8,7 @@ title: My ABC Book about St. Kitts and Nevis- Student Workbook
 
 shortdesc: “The My ABC Book about St. Kitts and Nevis Student Workbook is 100 pages of fun-filled activities based on the history and culture of the Federation of St. Kitts and Nevis.”
  
-categories: [ Children's Books ]
+categories: [ Children’s Books ]
 
 alt-text:  
 
