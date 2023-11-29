@@ -8,7 +8,7 @@ title: MY ABC Book About St. Kitts & Nevis.
 
 shortdesc: “A historically themed alphabet book about the Federation of St. Kitts and Nevis.” 
 
-categories: [ History ] 
+categories: [ Children's Books ] 
 
 alt-text:  
 
