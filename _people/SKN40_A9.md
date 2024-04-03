@@ -16,4 +16,4 @@ alt-text: " "
 
 ## About This Item 
 
-Sir Probyn Inniss was the Senior Partner in the Law Firm Inniss and Inniss. He was a former Governor of St. Kitts and Nevis, and previously worked in the Public Service as Permanent Secretary, Crown Counsel and Teacher at the St. Kitts- Nevis Grammar School. This is his third book on the history of St. Kitts, the others being “Historic Basseterre” (1979) and “Whither Bound St. Kitts and Nevis?” (1983)
+As Civil Servant and Governor of St. Christopher-Nevis-Anguilla, lawyer, Methodist Church local preacher, historian and advocate of local heritage, Sir Probyn Inniss provided outstanding national service. Sir. Probyn made an invaluable contribution to his country out of a deep sense of patriotism. He exemplified the motto of St.kitts and Nevis, 'Country above Self.' Sir Probyn held the office of Governor of the Associated State of St.Kitts-Nevis-Anguilla from 1975 to 1981 and was knighted by the Queen in 1976. He was a graduate of the University of the West Indies and the Lords Inns of Court. Sir Probyn initiated History and Heritage Week, late History and Heritage Month, in St. Kitts and Nevis.  
