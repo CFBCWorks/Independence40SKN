@@ -16,4 +16,4 @@ alt-text: ""
 
 ## About This Item 
 
-God’s Signet: Standing Authority, is the first in this series of books by author Jasmine Browne. She is an intercessor, youth minister and counselor. For 59 years, she lived and ministered in the USVI, Virginia, Orlando and Nevis, her native land. 
+Jasmine Browne is an intercessor, youth minister and counselor who has lived and worked in the United States Virgin Islands, the cities of, Virginia, Orlando in the USA and Nevis, her native land. 
