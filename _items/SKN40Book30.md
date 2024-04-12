@@ -1,12 +1,11 @@
 ---
-
 layout: item 
 
 format: photo 
 
-title: Musings and Reflections 1 
+title: "Musings and Reflections 1"
 
-shortdesc: 'Musings and Reflections 1' is a collection of poetic compositions, a presentation of verses, most with a defined rhyme scheme, that capture the poet's experiences, ideas, ideals, idiosyncrasies, exhortations, lamentations, and aspirations. 
+shortdesc: "'Musings and Reflections 1' is a collection of poetic compositions, a presentation of verses, most with a defined rhyme scheme, that capture the poet's experiences, ideas, ideals, idiosyncrasies, exhortations, lamentations, and aspirations." 
 
 categories: [ Poetry ] 
 
