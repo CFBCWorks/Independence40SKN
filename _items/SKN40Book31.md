@@ -5,15 +5,15 @@ format: photo
 
 title: "Out of Zion"
 
-shortdesc: “In Out of Zion, George Henry Newton has a dream: to get out of Zion, Nevis.” 
+shortdesc: “In _Out of Zion_, George Henry Newton has a dream: to get out of Zion, Nevis.” 
 
 categories: [ Memoir ]
 
 alt-text: 
 
 
---- 
 
+--- 
 
 ### About this Item 
 
