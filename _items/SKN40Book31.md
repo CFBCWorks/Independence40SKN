@@ -13,7 +13,6 @@ categories: [ Memoir ]
 alt-text: 
 
 
-
 --- 
 
 ### About this Item 
