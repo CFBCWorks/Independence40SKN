@@ -3,9 +3,9 @@ layout: item
 
 format: photo 
 
-title: Early Morning Thoughts
+title: "Early Morning Thoughts"
 
-shortdesc: “The book “Early Morning Thoughts” by Romaine Belgrove is made up of 75 poems."
+shortdesc: “The book “_Early Morning Thoughts_” by Romaine Belgrove is made up of 75 poems."
 
 categories: [ Poetry ] 
 
