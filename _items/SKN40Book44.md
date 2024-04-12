@@ -3,7 +3,7 @@ layout: item
 
 format: photo 
 
-title: Violence Prevention Strategies: St Kitts and Nevis Public Schools
+title: "Violence Prevention Strategies: St Kitts and Nevis Public Schools"
 
 shortdesc: “This project study was done in St. Kitts & Nevis and captures the efforts of teachers in public Primary schools as it relates to violence prevention."
 
