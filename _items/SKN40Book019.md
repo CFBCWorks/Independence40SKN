@@ -3,7 +3,7 @@ layout: item
 
 format: photo 
 
-title: _Dancing in Bondage_
+title: Dancing in Bondage
 
 shortdesc: “A book of poems that utilizes words to paint pictures of liberation and vindication through various dimensions of life"
 
