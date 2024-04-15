@@ -5,7 +5,7 @@ format: photo
 
 title: "Violence Prevention Strategies: St. Kitts and Nevis Public Schools: Violence Prevention: St. Kitts-Nevis"
 
-shortdesc: “A book about Violence Prevention Strategies” 
+shortdesc: “This book explores the role of teachers in violence prevention in schools in St. Kitts & Nevis, emphasizing sustainable strategies for a safer educational environment.” 
 categories: [ Memoir ]
 
 alt-text: 
