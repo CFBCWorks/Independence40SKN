@@ -4,9 +4,9 @@ layout: item
 
 format: photo 
 
-title: _Ivor A. Stevens:Soldier, Politician, Businessman, And Family Man_
+title: Ivor A. Stevens:Soldier, Politician, Businessman, And Family Man
 
-shortdesc: “A tribute to the life and legacy of Ivor Stevens, a principled and respected politician who played a key role in the political evolution of Nevis and St. Kitts.”
+shortdesc: “A tribute to the life and legacy of Ivor Stevens, a principled and respected politician who played a key role in the political evolution of St. Kitts and Nevis.”
  
 categories: [ History, Memoir ]
 
