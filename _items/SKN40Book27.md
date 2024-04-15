@@ -5,7 +5,7 @@ format: photo
 
 title: Reflections: A Journey to Retirement 
 
-shortdesc: “A collection of poems written by author and teacher Ermileta M. Jeffers-Elliott"
+shortdesc: “A delightful collection of poems by Mrs. Ermileta M. Jeffers-Elliott, celebrating various occasions and inspiring poetic expression."
 
 categories: [ Poetry ] 
 
