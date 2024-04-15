@@ -6,7 +6,7 @@ format: photo
 
 title: How About Poetry for Dessert?
 
-shortdesc: “How About Poetry for Dessert?” is a collection of poems with a Caribbean flavour for the family table.
+shortdesc: “A vibrant collection of Caribbean-flavored poems for families and classrooms, blending education with entertainment across various subjects and settings."
  
 categories: [ Poetry ]
 
