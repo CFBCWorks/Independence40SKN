@@ -6,7 +6,7 @@ format: photo
 
 title: "Faith"
 
-shortdesc: “The Power of Faith: Embracing and unlocking the blessings of the Kingdom of God.”
+shortdesc: “The Power of Faith--Embracing and unlocking the blessings of the Kingdom of God.”
 
 categories: [ Inspirational ]
 
