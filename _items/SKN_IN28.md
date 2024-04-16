@@ -8,7 +8,7 @@ title: "Children’s Delight"
 
 shortdesc: “A collection of inspiring and practical poems for children, dedicated to fostering a love for poetry from a young age."
 
-categories: [ Poetry and Chldren's Books] 
+categories: [ Poetry , Chidren's Books] 
 
 alt-text:  
 
