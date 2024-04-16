@@ -6,7 +6,7 @@ format: photo
 
 title: "Journey"
 
-shortdesc: “From Statehood to Independence--A Patriotic Poetry Collection on the Journey of St. Kitts/Nevis.”
+shortdesc: “A Patriotic poetry collection on the Journey of St. Kitts/Nevis from Statehood to Independence.”
 
 categories: [ Poetry , Political Non-Fiction ]
 
