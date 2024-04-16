@@ -4,7 +4,7 @@ layout: item
 
 format: photo 
 
-title: "Lifting the Weight of Miscarriage: Healing Insights on Pregnancy Loss for Sufferers and the People Around Us"
+title: "Lifting the Weight of Miscarriage"
 
 shortdesc: “An emotional and insightful memoir on navigating the aftermath of pregnancy loss tied to a Caribbean context but universally relevant.”
  
