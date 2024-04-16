@@ -8,7 +8,7 @@ title: "Cambridge"
 
 shortdesc: “A poignant and thought-provoking novel about the complexities of relationships during the abolition of the slave trade.”
  
-categories: [ Novel/History ]
+categories: [ Novel , History ]
 
 alt-text:  
 
