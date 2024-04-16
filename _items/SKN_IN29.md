@@ -8,7 +8,7 @@ title: "Only God Can Make a Tree"
 
 shortdesc: “A gripping saga of love, social hierarchy, and family in the Caribbean.”
  
-categories: [ Novel and Romance ]
+categories: [ Novel , Romance ]
 
 alt-text:  
 
