@@ -6,7 +6,7 @@ format: photo
 
 title: Lyrical Love Notes – Narratives of Sensuality and Passion
 
-shortdesc: ““Lyrical Love Notes – Narratives of Sensuality and Passion is an illustrated anthology of original poems and quotes.”
+shortdesc: “Lyrical Love Notes – Narratives of Sensuality and Passion is an illustrated anthology of original poems and quotes.”
  
 categories: [ Poetry, Romance ]
 
