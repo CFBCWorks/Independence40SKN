@@ -5,7 +5,7 @@ format: photo
 
 title: "Out of Zion"
 
-shortdesc: “ This is a transformative journey of one man's pursuit for a better life, spanning war, success, and ultimately, redemption." - This book falls under the categories of memoirs, history, and inspirational.” 
+shortdesc: “ This is a transformative journey of one man's pursuit for a better life, spanning war, success, and ultimately, redemption." 
 
 categories: [ Memoir ]
 
