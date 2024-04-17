@@ -5,7 +5,7 @@ format: photo
 
 title: "Out of Zion"
 
-shortdesc: “In "Out of Zion", George Henry Newton has a dream to get out of Zion, Nevis.” 
+shortdesc: “ This is a transformative journey of one man's pursuit for a better life, spanning war, success, and ultimately, redemption." - This book falls under the categories of memoirs, history, and inspirational.” 
 
 categories: [ Memoir ]
 
