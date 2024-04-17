@@ -16,7 +16,7 @@ alt-text:
 
 ## About this Item 
 
-Sweet, Sweet Addiction relates the story of a family man driven by his passion to learn tennis at an age when most professional players retire. George Newton was thirty-three when he discovered the game of tennis. He plunges into the sport and pursues it as if he were addicted. He dealt with the challenge of balancing intense tennis practice with the demands of domestic and professional life.
+"_Sweet, Sweet Addiction_" relates the story of a family man driven by his passion to learn tennis at an age when most professional players retire. George Newton was thirty-three when he discovered the game of tennis. He plunges into the sport and pursues it as if he were addicted. He dealt with the challenge of balancing intense tennis practice with the demands of domestic and professional life.
 
 The story describes the progressive development of this tennis family. The senior Newton advanced through years of competition to National and International levels. His wife, Rosanna, evolved to become his main cheerleader, scorekeeper, and “coach.” His sons, Geoff and Greg, obtained athletic university scholarships.
 
