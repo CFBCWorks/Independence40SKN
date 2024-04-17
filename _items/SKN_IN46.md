@@ -6,7 +6,7 @@ format: photo
 
 title: "Sweet, Sweet Addiction"
 
-shortdesc: “_"Sweet, Sweet Addiction"_ tells the inspiring story of a family man's journey to tennis success, proving that it's never too late to follow your passion.”
+shortdesc: “Sweet, Sweet Addiction" tells the inspiring story of a family man's journey to tennis success, proving that it's never too late to follow your passion.”
 
 categories: [ Memoirs , Inspirational ]
 
