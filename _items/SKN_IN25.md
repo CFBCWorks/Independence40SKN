@@ -6,7 +6,7 @@ format: photo
 
 title: Both Ah Dem.
 
-shortdesc: “_Both Ah Dem_ showcases the beauty and power of poetry through the interplay of Standard English and Dialect, offering a diverse range of themes from history to humor.” 
+shortdesc: “Both Ah Dem showcases the beauty and power of poetry through the interplay of Standard English and Dialect, offering a diverse range of themes from history to humor.” 
 
 categories: [ Poetry ] 
 
