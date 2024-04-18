@@ -8,7 +8,7 @@ title: "I will Play Again"
 
 shortdesc: “I Will Play Again" is a touching memoir of a musician's lifelong pursuit of fame and the enduring power of love through hardship and illness."
 
-categories: [ Memoirs  ]
+categories: [ Memoir  ]
 
 alt-text:  
 
