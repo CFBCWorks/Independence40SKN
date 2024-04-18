@@ -8,7 +8,7 @@ title: "Lifting the Weight of Miscarriage "
 
 shortdesc: “An emotional and insightful memoir on navigating the aftermath of pregnancy loss tied to a Caribbean context but universally relevant.”
  
-categories: [ Memoirs , Inspirational ]
+categories: [ Memoir , Inspirational ]
 
 alt-text:  
 
