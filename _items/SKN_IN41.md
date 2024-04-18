@@ -8,7 +8,7 @@ title: "Say It with Song"
 
 shortdesc: “A collection of songs written for school and community events by a former teacher and choir director.”
 
-categories: [ Memoirs , Children's Book ]
+categories: [ Memoir , Children's Book ]
 
 alt-text:  
 
