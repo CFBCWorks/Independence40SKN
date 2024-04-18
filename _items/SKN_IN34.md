@@ -8,7 +8,7 @@ title: "From Siberia to St. Kitts: A teacher’s Journey"
 
 shortdesc: “A captivating biography unraveling the extraordinary life of Zenaida Katzen, spanning across continents and unveiling her complex character.”
  
-categories: [ Memoirs ]
+categories: [ Memoir ]
 
 alt-text:  
 
