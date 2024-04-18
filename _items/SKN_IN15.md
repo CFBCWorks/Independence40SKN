@@ -6,7 +6,7 @@ format: photo
 
 title: Voice of the Brave
 
-shortdesc: “Voice of the Brave’’ is a book consisting of poems intended for children of faith, to be recited at Easter, Christmas, or simply for expressing honour on Mothers’ Day and Fathers’ Day or perhaps at Harvest celebration time.”
+shortdesc: “A heartfelt collection of poems for special occasions and celebrations.”
  
 categories: [ Poetry ]
 
@@ -18,4 +18,4 @@ alt-text:
 
 ## About this Item 
 
-"Voice of the Brave’’ is a book consisting of poems intended for children of faith, to be recited at Easter, Christmas, or simply for expressing honour on Mothers’ Day and Fathers’ Day or perhaps at Harvest celebration time. Such celebrations can be church or community-based.  
+"_Voice of the Brave_’’ is a collection of poems intended for children of faith, to be recited at Easter and Christmas celebrations or as expressions of honours and gratitude on occasions such as Mother's Day, Father's Day and Harvest, whether such events are church or community-based.  
