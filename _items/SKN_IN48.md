@@ -16,7 +16,7 @@ alt-text:
 
 ### About this Item 
 
-Kishma Isaac’s book, "Screaming For Your Touch” is a deeply enriching invitation. Readers
+Kishma Isaac’s book, "_Screaming For Your Touch_” is a deeply enriching invitation. Readers
 are gently asked to journey from hopelessness to hope, in their universal struggles for meaning and peace. Expressed through raw feelings and burning urgency, you will discover the paradox of knowing love, yet, going after it. The author offers practical advice centered around sunny and stormy experiences on how to find solace, when everyone around you is screaming for relief.   
 
 This book is not merely a combination of rhymes and rhythms, proses and
