@@ -6,9 +6,9 @@ format: photo
 
 title: From Commoner to King
 
-shortdesc: “This was the second book I wrote, and it was published in 1992.”
+shortdesc: “An enlightening biography that redefines the legacy of Robert Bradshaw, a champion for education, labor unionism, and social change in St. Kitts and Nevis.”
  
-categories: [ History,Memoir ]
+categories: [ History , Memoir ]
 
 alt-text:  
 
