@@ -4,7 +4,7 @@ layout: item
 
 format: photo 
 
-title: "The Choice is Yours
+title: "The Choice is Yours"
 
 shortdesc: “An insightful exploration of how personal choices shape individual destinies and the desire for second chances.”
 
