@@ -8,7 +8,7 @@ title: "Growing up in Nevis"
 
 shortdesc: “A nostalgic and historical journey through Nevis in the mid-20th century, offering insight into community life and challenges faced during that era.”
 
-categories: [ Memoirs , History ]
+categories: [ Memoir , History ]
 
 alt-text:  
 
