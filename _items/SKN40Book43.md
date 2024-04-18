@@ -5,7 +5,7 @@ format: photo
 
 title: "Early Morning Thoughts"
 
-shortdesc: “The book “_Early Morning Thoughts_” is a collection of heartlfelt poems inspired by the author's experiences, aiming to inspire reflection, gratitude, and the spread of love and compassion."
+shortdesc: “The book “Early Morning Thoughts” is a collection of heartlfelt poems inspired by the author's experiences, aiming to inspire reflection, gratitude, and the spread of love and compassion."
 
 categories: [ Poetry ] 
 
