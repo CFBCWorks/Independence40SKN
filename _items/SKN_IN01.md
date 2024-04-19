@@ -6,7 +6,7 @@ format: photo
 
 title: Script Writer - A Journey of Creative Expression
 
-shortdesc: “Script Writer – A Journey of Creative Expression" embarks on an intropsective and thought-provoking poetic journey with 'A Journey of Creative Expression,' where personal, political, and historical elements intertwine,inviting readers to both be entertained and inspired to reflect on the complexities of the human experience."
+shortdesc: “Script Writer – A Journey of Creative Expression" embarks on an intropsective and thought-provoking poetic journey with 'A Journey of Creative Expression,' where personal, political, and historical elements intertwine, inviting readers to both be entertained and inspired to reflect on the complexities of the human experience."
  
 categories: [ Poetry ]
 
