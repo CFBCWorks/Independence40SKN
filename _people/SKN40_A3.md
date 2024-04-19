@@ -16,8 +16,6 @@ alt-text: " "
 
 ## About This Item 
 
-Mr. Loughlin Tatem  Biography
-
 Loughlin Tatem is a Kittitian playwright, poet and novelist. He is a graduate of the University of the West Indies Cave Hill Campus, Mr. Tatem and has been a secondary teacher for over 20 years, both at home and abroad. Loughlin Tatem is also a graduate in theological studies. 
 
 Mr. Tatem has written three books: a collection of poems entitled respectively ‘_Silence my Heart is Speaking_’, ‘_Voice of the Brave_’ and ‘_A Tempting to Confess_’.  He is currently in the process of producing a series of literary creative pieces.  
