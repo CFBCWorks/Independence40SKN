@@ -23,8 +23,6 @@ This book was written with you in mind, whether single, in a relationship or mar
 _Making Married Life Easy_ is a powerful resource that is used to improve the longevity of relationships and marriages overall. It is carefully crafted in statistical studies, coupled with real life experiences. It is intended to impart knowledge, wisdom and practical actions to make married life easy. It also provides insight into choosing the right mate, protecting your union, making hard talk easy and much more.
 
 Here are a few quotes:
-“Do not be in a hurry to become ‘Mrs. Wife’. Take the time to unravel if he is the right
-fit for you.”
+“Do not be in a hurry to become ‘Mrs. Wife’. Take the time to unravel if he is the right fit for you.”
 “Communication is the water that keeps the marriage hydrated.”
-“If you create a habit of inviting others into your marriage it would not be easy to escort
-them out.”
+“If you create a habit of inviting others into your marriage it would not be easy to escort them out.”
