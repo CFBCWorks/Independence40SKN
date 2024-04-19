@@ -18,4 +18,4 @@ alt-text:
 
 ## About this Item 
 
-"Silence my Heart is Speaking”, published by Ink Water Press in Oregon USA, is a book or poems with a focus on deeply emotive human experiences, specifically expressive of both pleasure and pain. It is regarded as uniquely Caribbean and specifically Kittitian. 
+"_Silence my Heart is Speaking_”, published by Ink Water Press in Oregon USA, is a book or poems with a focus on deeply emotive human experiences, specifically expressive of both pleasure and pain. It is regarded as uniquely Caribbean and specifically Kittitian. 
