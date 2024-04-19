@@ -6,7 +6,7 @@ format: photo
 
 title: " Making Married Life Easy"
 
-shortdesc: “_Making Married Life Easy_ offers practical tools and wisdom to navigate relationships and strengthen marriages with love and intention."
+shortdesc: “Making Married Life Easy offers practical tools and wisdom to navigate relationships and strengthen marriages with love and intention."
 
 categories: [ Inspirational  ]
 
