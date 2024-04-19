@@ -18,4 +18,4 @@ alt-text:
 
 ## About this Item 
 
-Script Writer – A Journey of Creative Expression” is a collection of poems covering abroad range of topics with critical observations of the human condition through apersonal, political and historical lens. The objective is to entertain through literature, but not without stimulating meaningful, thoughtful reflection.
+_Script Writer – A Journey of Creative Expression_” is a collection of poems covering abroad range of topics with critical observations of the human condition through apersonal, political and historical lens. The objective is to entertain through literature, but not without stimulating meaningful, thoughtful reflection.
