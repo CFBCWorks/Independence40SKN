@@ -6,7 +6,7 @@ format: photo
 
 title: "Too Blessed to make a Mess"
 
-shortdesc: “Discover how to navigate life's challenges with grace and gratitude in the inspirational book "_Too Blessed To Make a Mess_" by Pastor Wayne Maynard."
+shortdesc: “Discover how to navigate life's challenges with grace and gratitude in the inspirational book "Too Blessed To Make a Mess" by Pastor Wayne Maynard."
 
 categories: [ Inspirational  ]
 
