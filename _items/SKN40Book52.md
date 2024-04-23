@@ -3,7 +3,7 @@ layout: item
 
 format: photo 
 
-title: St Kitts - 100 Years of Medicine
+title: St Kitts- 100 Years of Medicine
 
 shortdesc: “The historical, cultural and socio-economic background in which medicine was practiced in St. Kitts during the past one hundred years"
 
