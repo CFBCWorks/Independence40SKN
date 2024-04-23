@@ -8,7 +8,7 @@ title: "Rhythm Time is Fun Time"
 
 shortdesc: “Engaging poems and rhymes for young learners in various Subjects, learning through Verse.”
 
-categories: [ Poetry , Children's Books ]
+categories: [ Poetry , Children's Book ]
 
 alt-text:  
 
