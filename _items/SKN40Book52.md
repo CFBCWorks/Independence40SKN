@@ -17,4 +17,4 @@ alt-text:
 
 ##About this Item 
 
-"Sir Cuthbert's devotion and love for medicine is aptly described, depicted and illustrated in the book "St. Kitts - 100 Years of Medicine" in which he wrote, "I had to let people know the foundation of the medicine we practice in St. Kitts is spiritual and scriptural." 
+"Sir Cuthbert's devotion and love for medicine is aptly described, depicted and illustrated in the book "_St. Kitts - 100 Years of Medicine_" in which he wrote, "I had to let people know the foundation of the medicine we practice in St. Kitts is spiritual and scriptural." 
