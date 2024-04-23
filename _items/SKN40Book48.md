@@ -1,4 +1,3 @@
-
 --- 
 layout: item 
 
@@ -6,7 +5,7 @@ format: photo
 
 title: "Writing Workshop"
 
-shortdesc: “"Writing Workshop" is directed at high school students, adults pursuing additional qualifications and either taking classes or engaging in self- directed study in order to pass CXC English A examinations or improve their writing skills for work.” 
+shortdesc: “Writing Workshop," a comprehensive guide for students, adults, teachers, tutors, and parents seeking to master the art of writing."
 
 categories: [ Educational ]
 
