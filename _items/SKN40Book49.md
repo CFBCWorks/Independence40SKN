@@ -1,4 +1,3 @@
-
 ---
 layout: item 
 
@@ -8,7 +7,7 @@ title: "Student Loan Answers"
 
 shortdesc: “This guide is the ultimate resource to navigate the muddled college financing process for Caribbean students."
 
-categories: [ Education ] 
+categories: [ Educational ] 
 
 alt-text:  
 
