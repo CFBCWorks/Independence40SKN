@@ -5,7 +5,7 @@ format: photo
 
 title: "Pregnant These Past 20 Years"
 
-shortdesc: "An exploration of resilience and freedom on the island of St. Kitts and Nevis through poetic prose”.  
+shortdesc: "An exploration of resilience and freedom on the island of St. Kitts and Nevis through poetic prose."
 
 categories: [ Poetry ]
 
