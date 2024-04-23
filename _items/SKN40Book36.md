@@ -3,9 +3,9 @@ layout: item
 
 format: photo 
 
-title: St. Kitts and Nevis: Portrait of a Nation Celebrating 25 Years of Independences
+title: St. Kitts and Nevis-Portrait of a Nation Celebrating 25 Years of Independences
 
-shortdesc: “St Kitts and Nevis:A Portrait of a Nation Celebrating 25 years of Independence" is a book that chronicles the journey of the young nation state from colony to independence, offering insightful reflections on governance, diplomacy, and nationhood..” 
+shortdesc: “St Kitts and Nevis-A Portrait of a Nation Celebrating 25 years of Independence" is a book that chronicles the journey of the young nation state from colony to independence, offering insightful reflections on governance, diplomacy, and nationhood..” 
 
 categories: [ Political Non-Fiction ]
 
