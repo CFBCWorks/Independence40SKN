@@ -8,7 +8,7 @@ title: Coming of Age
 
 shortdesc: “Coming of Age is a collection of speeches by Hon Dr Denzil L. Douglas, Prime Minister of St. Kitts and Nevis."
 
-categories: [ Poetry ] 
+categories: [ Political Non-Fiction ] 
 
 alt-text:  
 
@@ -18,4 +18,4 @@ alt-text:
 
 ##About this Item 
 
-"Coming of Age" is a collection of speeches by Hon Dr Denzil L. Douglas, Prime Minister of St. Kitts and Nevis : The first of two terms July 1995-October 2004. 
+"_Coming of Age_" is a collection of speeches by Hon. Dr. Denzil L. Douglas, former Prime Minister of St. Kitts and Nevis during his first two terms from July 1995 to October 2004. This compilation of speeches by the esteemed former Prime Minister, Denzil Douglas, is essential reading for those interested in understanding how a small country, under the leadership of a visionary leader, can shape the development of an entire region.
