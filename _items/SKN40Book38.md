@@ -9,7 +9,7 @@ shortdesc: "An exploration of resilience and freedom on the island of St. Kitts 
 
 categories: [ Poetry ]
 
-alt-text: 
+alt-text: ""  
 
 
 
