@@ -4,7 +4,7 @@ layout: item
 
 format: photo 
 
-title: What Start a Bad Mornin'
+title: What Start Bad a Mornin'
 
 shortdesc: “Amaya Lin has few memories of the years before she turned eighteen.”
  
