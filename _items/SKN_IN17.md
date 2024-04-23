@@ -8,7 +8,7 @@ title: The Christena Disaster in Retrospect.
 
 shortdesc: “This book captures the heartbreaking and haunting account of the Christena tragedy of 1970, capturing the loss, survival, and lasting impact on the people of St. Kitts-Nevis” 
 
-categories: [ Memoir,History ] 
+categories: [ History ] 
 
 alt-text:  
 
