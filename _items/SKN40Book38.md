@@ -12,7 +12,6 @@ categories: [ Poetry ]
 alt-text: ""  
 
 
-
 --- 
 
 ### About this Item 
