@@ -1,13 +1,26 @@
----
-layout: item
-format: photo
-title: The Christena: A Story of Tragedy and Survival
-author: Whitman T. Browne, PhD
-shortdesc: “This is a commemorative tribute to the 50th anniversary of the Christena tragedy, showcasing personal stories, new photos, and the lasting impact on St. Kitts and Nevis.”
-contributorquote: "The picture [contained in the book] of the six politicians is unique.  Probably, that coming together for a photograph, on August 1, 2020, fifty years after the sinking of the Christena, is the only picture available, showing so many present and former leaders of St. Kitts, and Nevis, together."
-categories: [History]
----
 
+
+--- 
+
+layout: item 
+
+format: photo 
+
+title: "The Christena: A Story of Tragedy and Survival.
+
+author: Whitman T. Browne, PhD
+
+shortdesc:  “This is a commemorative tribute to the 50th anniversary of the Christena tragedy, showcasing personal stories, new photos, and the lasting impact on St. Kitts and Nevis.”
+
+contributorquote: "The picture [contained in the book] of the six politicians is unique.  Probably, that coming together for a photograph, on August 1, 2020, fifty years after the sinking of the Christena, is the only picture available, showing so many present and former leaders of St. Kitts, and Nevis, together."
+
+categories: [ History ] 
+
+alt-text:  
+
+ 
+
+---
 
 ## About this Item 
 
