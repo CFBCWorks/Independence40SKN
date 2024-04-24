@@ -8,7 +8,7 @@ title: From Commoner to King
 
 shortdesc: “An enlightening biography that redefines the legacy of Robert Bradshaw, a champion for education, labor unionism, and social change in St. Kitts and Nevis.”
  
-categories: [ History , Memoir ]
+categories: [ History , Biography ]
 
 alt-text:  
 
