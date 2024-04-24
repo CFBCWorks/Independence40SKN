@@ -4,7 +4,7 @@ layout: item
 
 format: photo 
 
-title: "The Christena: A Story of Tragedy and Survival.
+title: "The Christena: A Story of Tragedy and Survival."
 
 creator: Whitman T. Browne, PhD
 
