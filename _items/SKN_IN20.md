@@ -2,7 +2,7 @@
 
 layout: item 
 
-format: photo 
+format: photo
 
 title: The Christena: A Story of Tragedy and Survival
 
