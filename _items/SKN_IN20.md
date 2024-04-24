@@ -6,7 +6,7 @@ format: photo
 
 title: "The Christena: A Story of Tragedy and Survival.
 
-author: Whitman T. Browne, PhD
+creator: Whitman T. Browne, PhD
 
 shortdesc:  “This is a commemorative tribute to the 50th anniversary of the Christena tragedy, showcasing personal stories, new photos, and the lasting impact on St. Kitts and Nevis.”
 
