@@ -9,7 +9,7 @@ title: "Robert L.  Bradshaw:  Leadership for Change And Survival In The Caribbea
 
 shortdesc: “Exploring the legacy of Robert Bradshaw and advocating for visionary and shared leadership in the Caribbean and beyond, this book is a call to action for the future of governance.”
  
-categories: [ History ]
+categories: [ History, Biography ]
 
 alt-text:  
 
