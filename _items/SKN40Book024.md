@@ -7,7 +7,7 @@ title: "The Making of a National Hero: An Autobiography "
 
 shortdesc: “A captivating biography of Dr. The Right Excellent Sir Kennedy Alphonse Simmonds, St. Kitts and Nevis' National Hero and first Prime Minister, showcasing his remarkable life journey and contributions to Caribbean history."
 
-categories: [ Memoir ] 
+categories: [ Autobiography ] 
 
 alt-text:  
 
