@@ -8,7 +8,7 @@ title: My Early Life on St. Kitts and Nevis
 
 shortdesc: “ "My Early Life on St. Kitts and Nevis" is an autobiography by Clement "Bouncin" Williams."
 
-categories: [ Autobiography ] 
+categories: [ Autobiography, History ] 
 
 alt-text:  
 
