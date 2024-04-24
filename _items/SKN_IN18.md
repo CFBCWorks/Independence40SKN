@@ -8,7 +8,7 @@ title: The Christena Disaster Revisited
 
 shortdesc: “This is an updated and poignant exploration of the long-lasting effects of the Christena tragedy, delving deeper into the emotional impact on survivors and their families.”
  
-categories: [ Memoir, History ]
+categories: [ History ]
 
 alt-text:  
 
