@@ -8,7 +8,7 @@ title: "IT MATTERS Life Skills Handbook"
 
 shortdesc: “A handy guide for tweens and adolescents to navigate personal growth and development."
 
-categories: [ Inspirational  ]
+categories: [ Inspiration ]
 
 alt-text:  
 
