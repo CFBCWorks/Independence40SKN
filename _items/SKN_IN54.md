@@ -8,7 +8,7 @@ title: "Principles of Business Management Study Guide 2"
 
 shortdesc: “An essential study guide for business management students, offering comprehensive coverage and valuable resources for academic success, suitable for college and university levels."
 
-categories: [ Educational  ]
+categories: [ Education  ]
 
 alt-text:  
 
