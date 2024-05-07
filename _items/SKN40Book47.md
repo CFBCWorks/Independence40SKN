@@ -7,7 +7,7 @@ title: "Down Again"
 
 shortdesc: “A Christian help book” 
 
-categories: [ Inspirational ]
+categories: [ Inspiration ]
 
 alt-text: 
 
