@@ -8,7 +8,7 @@ title: " Making Married Life Easy"
 
 shortdesc: “Making Married Life Easy offers practical tools and wisdom to navigate relationships and strengthen marriages with love and intention."
 
-categories: [ Inspirational  ]
+categories: [ Inspiration  ]
 
 alt-text:  
 
