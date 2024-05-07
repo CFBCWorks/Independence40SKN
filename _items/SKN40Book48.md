@@ -7,7 +7,7 @@ title: "Writing Workshop"
 
 shortdesc: “Writing Workshop," a comprehensive guide for students, adults, teachers, tutors, and parents seeking to master the art of writing."
 
-categories: [ Educational ]
+categories: [ Education ]
 
 alt-text: 
 
