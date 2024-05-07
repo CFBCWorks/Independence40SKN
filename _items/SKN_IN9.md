@@ -8,7 +8,7 @@ title: God's Signet:Standing in Authority.
 
 shortdesc: “Empowering readers to embrace their potential and stand in authority as God's Signets, inspired by timeless truths and a message of self-discovery.” 
 
-categories: [ Inspirational ] 
+categories: [ Inspiration ] 
 
 alt-text:  
 
