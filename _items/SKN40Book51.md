@@ -7,7 +7,7 @@ title: "Impress or Impact"
 
 shortdesc: “A thought-provoking Christian book exploring the value of true faith and meaningful actions over seeking mere approval.” 
 
-categories: [ Inspirational ]
+categories: [ Inspiration ]
 
 alt-text: 
 
