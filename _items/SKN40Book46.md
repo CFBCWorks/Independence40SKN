@@ -7,7 +7,7 @@ title: The Danger of Fear
 
 shortdesc: “This book allows us to discover the transformative power of faith as 'The Battle Against Fear' exposes the destructive grip of fear in our lives, offering biblical wisdom and spiritual guidance to break free and embrace a life of courage and liberation."
 
-categories: [ Inspirational ] 
+categories: [ Inspiration ] 
 
 alt-text:  
 
