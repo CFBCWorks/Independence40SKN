@@ -8,7 +8,7 @@ title: "A Piece of My Mind"
 
 shortdesc: “A Piece of My Mind" by Jacinth Henry-Martin is a liberating and vindicating collection of poems that celebrate overcoming life's challenges with zest and conviction."
 
-categories: [ Poetry , Inspirational  ]
+categories: [ Poetry , Inspiration  ]
 
 alt-text:  
 
