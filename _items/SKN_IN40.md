@@ -16,4 +16,4 @@ alt-text:
 
 ## About this Item 
 
-_"Rhythm Time is Fun Time_"…a collection of poems and rhymes which were used to teach concepts in mathematics, science, social studies and language arts, at the kindergarten and lower Primary School levels
+_"Rhythm Time is Fun Time_" a collection of poems and rhymes which were used to teach concepts in mathematics, science, social studies and language arts, at the kindergarten and lower Primary School levels
