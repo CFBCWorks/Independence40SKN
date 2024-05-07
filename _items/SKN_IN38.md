@@ -8,7 +8,7 @@ title: "Faith"
 
 shortdesc: “The Power of Faith--Embracing and unlocking the blessings of the Kingdom of God.”
 
-categories: [ Inspirational ]
+categories: [ Inspiration ]
 
 alt-text:  
 
