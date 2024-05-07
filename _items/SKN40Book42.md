@@ -7,7 +7,7 @@ title: Memorable Quotations for Speakers, Teachers, and Preachers
 
 shortdesc: “Sir Probyn Inniss was a Methodist Lay Preacher and Former Vice-President of the Methodist Church in the Caribbean and the Americas (MCCA)."
 
-categories: [ Inspirational ] 
+categories: [ Inspiration ] 
 
 alt-text:  
 
