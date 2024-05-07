@@ -8,7 +8,7 @@ title: "Sweet, Sweet Addiction"
 
 shortdesc: “Sweet, Sweet Addiction" tells the inspiring story of a family man's journey to tennis success, proving that it's never too late to follow your passion.”
 
-categories: [ Memoir , Inspirational ]
+categories: [ Memoir , Inspiration ]
 
 alt-text:  
 
