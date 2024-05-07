@@ -8,7 +8,7 @@ title: "The Choice is Yours"
 
 shortdesc: “An insightful exploration of how personal choices shape individual destinies and the desire for second chances.”
 
-categories: [ Inspirational ]
+categories: [ Inspiration ]
 
 alt-text:  
 
