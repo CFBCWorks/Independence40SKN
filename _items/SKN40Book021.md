@@ -7,7 +7,7 @@ title: "Violence Prevention Strategies: St. Kitts and Nevis Public Schools: Viol
 
 shortdesc: “This book explores the role of teachers in violence prevention in schools in St. Kitts & Nevis, emphasizing sustainable strategies for a safer educational environment.” 
 
-categories: [ Educational ]
+categories: [ Education ]
 
 alt-text: 
 
