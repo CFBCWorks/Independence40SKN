@@ -7,7 +7,7 @@ title: "Screaming For Your Touch"
 
 shortdesc: “ Screaming For Your Touch" is a moving collection of poems that offer guidance on finding solace and self-discovery through personal and spiritual growth.” 
 
-categories: [ Poetry , Inspirational ]
+categories: [ Poetry , Inspiration ]
 
 alt-text: 
 
