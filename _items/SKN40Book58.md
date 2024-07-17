@@ -19,4 +19,4 @@ alt-text:
 
 ### About the Book
 
-"And Society Grows  - Poetry from the Heart" is a book of collected poems. 
+"And Society Grows - Poetry from the Heart" is a book of collected poems by Tafari Ayinde.
