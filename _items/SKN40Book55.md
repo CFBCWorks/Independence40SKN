@@ -7,7 +7,7 @@ title: "A Tour Around St Kitts"
 
 shortdesc: An informational handbook of the island of St Kitts. 
 
-categories: [ History ] 
+categories: [ Education ] 
 
 alt-text:  
 
