@@ -3,7 +3,7 @@ layout: item
 
 format: photo 
 
-title: "Reflections: On an Epic Journey"
+title: Reflections: On an Epic Journey
 
 shortdesc: A commentary on political and social development of St. Kitts in 1993. 
 
