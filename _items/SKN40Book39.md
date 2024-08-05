@@ -17,4 +17,4 @@ alt-text:
 
 ##About this Item 
 
-_Silence my Heart is Speaking_, published by Ink Water Press in Oregon USA, is a book of poems which focus on deeply emotive human experiences, specifically expressive of both pleasure and pain. The poems may be regarded as uniquely Caribbean and specifically Kittitian. 
+_Silence my Heart is Speaking_ by [Loughlin Tatem](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A03.html), published by Ink Water Press in Oregon USA, is a book of poems which focus on deeply emotive human experiences, specifically expressive of both pleasure and pain. The poems may be regarded as uniquely Caribbean and specifically Kittitian. 
