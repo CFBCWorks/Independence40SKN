@@ -17,7 +17,7 @@ alt-text:
 
 ##About this Item 
 
-"Sir Probyn Inniss was a Methodist Lay Preacher and Former Vice-President of the Methodist Church in the Caribbean and the Americas (MCCA). 
+"[Sir Probyn Inniss](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A9.html) was a Methodist Lay Preacher and Former Vice-President of the Methodist Church in the Caribbean and the Americas (MCCA). 
 
 For nearly twenty-five years he has been a lawyer in private practice, having previously been Governor of St. Kitts and Nevis.  
 
