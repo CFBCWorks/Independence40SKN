@@ -26,7 +26,7 @@ It is very fitting that the bicentenary celebrations should begin in St, Kitts, 
 
 In 1987, Rev. Dr. Hugh Sherlock, the first President of the Conference of the Methodist Church in the Caribbean, and the Americas (M.C. C.A.), recalled, with gratitude to God. "The vision in St. Kitts, which God gave me and used for the founding of our Conference.
 
-I have tried to tell the story of Methodism in St. Kitts to highlight the special place which it has retained in Caribbean Methodism since Dr. Coke took his leave of "The happy island in which genuine religion flourished like an olive tree in the house of God.
+[Sir Probyn Inniss](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A9.html) has tried to tell the story of Methodism in St. Kitts to highlight the special place which it has retained in Caribbean Methodism since Dr. Coke took his leave of "The happy island in which genuine religion flourished like an olive tree in the house of God.
 
 Methodism has had a glorious past. But the future poses challenges. Can the church itself and in the process recapture its ordained Mission and Vision?
 
