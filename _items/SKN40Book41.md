@@ -17,7 +17,7 @@ alt-text:
 
 ##About this Item 
 
-"_The Legacy of Dr. Simeon Daniel_" is a compelling biography that delves into the remarkable life and profound impact of Dr. Simeon Daniel, a distinguished figure in the history of Nevis and the West Indies. Born in 1934 in Barnes Ghaut Village, St. Thomas' Parish, Nevis, Dr. Daniel's journey from humble beginnings to becoming a prominent leader and legal expert is a testament to his unwavering dedication and passion for service. 
+"_The Legacy of Dr. Simeon Daniel_" is a compelling biography by [George Washington Archibald](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A43.html) that delves into the remarkable life and profound impact of Dr. Simeon Daniel, a distinguished figure in the history of Nevis and the West Indies. Born in 1934 in Barnes Ghaut Village, St. Thomas' Parish, Nevis, Dr. Daniel's journey from humble beginnings to becoming a prominent leader and legal expert is a testament to his unwavering dedication and passion for service. 
 
 This insightful book chronicles Dr. Daniel's early education, his career as a teacher, and his pursuit of legal studies in the UK, culminating in his remarkable achievements as a Barrister-at-Law and his return to Nevis to serve in various esteemed positions including Assistant Secretary in the Ministry of External Affairs. 
 
