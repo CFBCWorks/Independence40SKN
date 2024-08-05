@@ -17,7 +17,7 @@ alt-text:
 
 ##About this Item 
 
-'_Musings and Reflections 1_' is a collection of poetic compositions, a presentation of verses, most with a defined rhyme scheme, that capture the poet's experiences, ideas, ideals, idiosyncrasies, exhortations, lamentations, and aspirations. 
+'_Musings and Reflections 1_' by [Michael S. Blake](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A28.html) is a collection of poetic compositions, a presentation of verses, most with a defined rhyme scheme, that capture the poet's experiences, ideas, ideals, idiosyncrasies, exhortations, lamentations, and aspirations. 
 
 They touch multiple themes and topics, target various age groups and social / academic cohorts, and vary in length, tempo, meter, mood, message, density, and imagery. 
 
