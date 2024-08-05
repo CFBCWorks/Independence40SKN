@@ -28,6 +28,6 @@ _How About Poetry for Dessert?_? is divided into five categories:
 
 3. Fun Times are Good Times 
 
-.4. More About Me 
+4. More About Me 
 
 5. Special Times and Places 
