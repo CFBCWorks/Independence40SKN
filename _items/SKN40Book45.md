@@ -17,7 +17,7 @@ alt-text:
 
 ##About this Item 
 
-“_The Door Within_”, by Sekou K Rameses, is an exciting collection of ideas and thoughts that reflects the poet’s vision about his sojourn here on Earth.  
+“_The Door Within_”, by [Sekou K Rameses](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A22.html), is an exciting collection of ideas and thoughts that reflects the poet’s vision about his sojourn here on Earth.  
 
 He gives us “Reflections,” “Vibrations,” “Hope,” and “Tranquility,” yet like “A warrior,” firm “Like a Tree planted by the Nile,” he uncovers for us “The Atrocities of Life” that can only be answered by “The African Prayer.” 
 
