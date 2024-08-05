@@ -17,6 +17,6 @@ alt-text:
 
 ##About this Item 
 
-"This book is dedicated to the Body of Christ to help us to realize how dangerous fear is and that it should not be tolerated in our lives. It should be dealt with very seriously. Fear can cripple someone’s life physically, emotionally, spiritually, and financially. When fear gets a hold on someone’s life, it destroys it.
+"The Danger of Fear by [Godwin Browne](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A17.html) is dedicated to the Body of Christ to help us to realize how dangerous fear is and that it should not be tolerated in our lives. It should be dealt with very seriously. Fear can cripple someone’s life physically, emotionally, spiritually, and financially. When fear gets a hold on someone’s life, it destroys it.
 
 Romans 8:15 KJV For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, where we cry, Abba Father."
