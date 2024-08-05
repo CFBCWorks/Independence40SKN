@@ -18,7 +18,7 @@ alt-text:
 
 ## About this Item 
 
-“_How About Poetry for Dessert?_” is a collection of poems with a Caribbean flavour for the family table. Grown-ups will enjoy reading these educational, fun filled poems to children. Teachers will appreciate the high level of animation in each poem, the interesting and exciting story lines in different subject areas that are encapsulated in the poems. This book is therefore a wonderful teaching aid for multiple topics in the classroom. 
+“_How About Poetry for Dessert?_” by [Vanessa Webbe](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A25.html) is a collection of poems with a Caribbean flavour for the family table. Grown-ups will enjoy reading these educational, fun filled poems to children. Teachers will appreciate the high level of animation in each poem, the interesting and exciting story lines in different subject areas that are encapsulated in the poems. This book is therefore a wonderful teaching aid for multiple topics in the classroom. 
 
 _How About Poetry for Dessert?_? is divided into five categories: 
 
