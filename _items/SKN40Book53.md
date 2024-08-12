@@ -19,4 +19,4 @@ alt-text:
 
 ### About the Book
 
-"Reflections: On an Epic Journey" by Washinton Archibald is a commentary on political and social development of St. Kitts during 1993.
+"Reflections: On an Epic Journey" by [Washinton Archibald](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A43.html) is a commentary on political and social development of St. Kitts during 1993.
