@@ -19,6 +19,8 @@ alt-text:
 
 ### About this Item 
 
+“A thought-provoking Christian book by [Godwin Browne](https://cfbcworks.github.io/Independence40SKN/people/SKN40_A17.html) exploring the value of true faith and meaningful actions over seeking mere approval.” 
+
 Sometimes the Christian community appears to focus more on creating a good impression than making a positive impact.  
 
 Jesus encountered this attitude when He came on the scene. He came face to face with a religious system that appeared to be much too focused on creating a good impression (see Matthew 6:1-8).
