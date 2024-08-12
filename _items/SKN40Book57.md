@@ -19,4 +19,4 @@ alt-text:
 
 ### About the Book
 
-This book contains techniques and formulations derived from extensive hydroponics experiments done at the Clarence Fitzroy Bryant College, that was designed for tropical and subtropical environments under shade house conditions instead of greenhouse conditions.
+This book by Stuart Laplace contains techniques and formulations derived from extensive hydroponics experiments done at the Clarence Fitzroy Bryant College, that was designed for tropical and subtropical environments under shade house conditions instead of greenhouse conditions.
