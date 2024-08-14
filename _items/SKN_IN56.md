@@ -6,7 +6,7 @@ format: photo
 
 title: "Ozzie's Odyssey"
 
-shortdesc: “_Ozzie's Odyssey_ offers an inspiring glimpse into the resilient spirit of island life through the eyes of a remarkable man who overcomes adversity with optimism."
+shortdesc: “Ozzie's Odyssey offers an inspiring glimpse into the resilient spirit of island life through the eyes of a remarkable man who overcomes adversity with optimism."
 
 categories: [ Memoir , Inspiration  ]
 
