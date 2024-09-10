@@ -4,7 +4,7 @@ layout: item
 
 format: photo 
 
-title: "Democracy and Neoliberalism in the Developing World:Lessons from the Anglophone Caribbean."
+title: "Democracy and Neoliberalism in the Developing World:Lessons from the Anglophone Caribbean"
 
 shortdesc: “This study examines the potential for institutionalizing liberal democracy in developing countries amidst the challenges posed by neoliberalism, highlighting the necessary preconditions for democratic stability."
 
